@@ -1,0 +1,6 @@
+例子：
+https://raw.githubusercontent.com/nayesi/tuchuang/main/CG75c-L.png
+nayesi为github用户名
+tuchuang为仓库名
+main为分支名
+CG75c-L.png为文件名
